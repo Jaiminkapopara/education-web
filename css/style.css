@@ -499,6 +499,7 @@ footer ul li a:hover{
 
     .nav_menu{
         position: fixed;
+        margin-top: 1rem;
         top: 5rem;
         right: 5%;
         height: fit-content;
